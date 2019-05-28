@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JX3Exam</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="commit">提交试卷</string>
+    <string name="nextquestion">下一题</string>
+    <drawable name="text_black">#1E1E1E</drawable>
+    <drawable name="text_white">#ffffff</drawable>
+</resources>
